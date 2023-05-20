@@ -16,3 +16,4 @@ Usage:
 Note: This script assumes CentOS 7 as the target operating system and requires root access for installing packages and rebooting the system.
 
 Contributions, bug reports, and feature requests are welcome!
+Paypal: Entri3@aol.com
